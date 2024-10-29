@@ -1,0 +1,7 @@
+bs4
+haystack-ai
+markdownify
+tiktoken
+streamlit
+jinja2
+diskcache
